@@ -16,9 +16,10 @@ We will provide offline pressure test for the safety of your digital asset.
      - device safety
      - the way you generating seed/private key reviewed
      - not using or have been exposed to wallets that had security leaks
-- or, you can choose to receive/collect a packet, containing:
-      - witch attack model device
-      - samples of easy seed keep mechanism
-      - other attacking vectors
+       
+- or, you can choose to receive/collect a packet, containing: 
+    - witch attack model device
+    - samples of easy seed keep mechanism
+    - other attacking vectors
   
 If you feel the pressure test is useful, some bitcoin donations will be appreciated!
