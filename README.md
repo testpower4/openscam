@@ -8,7 +8,7 @@ We will provide offline pressure test for the safety of your digital asset.
 
 - We will tell you how you will be approached, say within the next month.
 - You will get phishing messages.
-- If you responded, we will agree to meet at a physical location (alternatively, a member of your family watching us through Zoom video scamming you alive), and you will see how the social engineering is carried at you
+- If you responded, we will agree to meet at a physical location (alternatively, a member of your family etc can watch us scamming you alive through Zoom video), so you will see how you will be targetted by social engineering
 - If you didn't respond to the fake message (hopefully), we agree to meet at a location, then we do detections/hypothetical questionnaire together to ensure your asset has been:
      - CEX safety (like 2FA backup/recovery, KYC status noting)
      - recovery plan tested
