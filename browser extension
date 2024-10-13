@@ -1,0 +1,6 @@
+# browser extension checklist
+
+sollet (Solana):
+
+stopped maintainance since 2022. If you created/imported pass phrase into it, then highly likely it's leaked through some cloud function log.
+Your fund will get stolen (manually): example 1 of (100 SOL)[https://x.com/hughmfer/status/1768308899239674145]
